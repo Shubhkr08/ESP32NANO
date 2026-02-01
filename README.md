@@ -23,8 +23,8 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
 | Pin Headers | 17 | GPIO breakout |
 ## Schematic & PCB
 <img width="1281" height="722" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/4c8a113b-800f-4bb7-97dc-4ac0fb7dafd8" />
-<img width="614" height="812" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3782b218-dd4b-439d-9ec5-6f33f26f9c02" />
-## 3d Render
+<img width="614" height="812" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3782b218-dd4b-439d-9ec5-6f33f26f9c02" /><br><br>
+- ## 3d Render<br><br>
 <img width="526" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/9e2959bc-e1e0-490a-b71a-f6cbf8bb5ab1" />
 <img width="699" height="876" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/19016cc3-846d-4646-9340-6d58191dfa41" />
 <img width="708" height="699" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/27cafcea-55e2-467c-9423-afeb4fceccb4" />
