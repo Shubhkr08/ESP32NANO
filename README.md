@@ -38,9 +38,9 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
   
 ### 💰 Cost Summary
 
-- **Components Total:** $15.72  
+- **Components Total:** $21.72  
 - **Shipping + PCB:** $48.81  
-- **Estimated Total Cost:** **$64.53 USD**
+- **Estimated Total Cost:** **$70.53 USD**
 ## Schematic & PCB
 <img width="1281" height="722" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/4c8a113b-800f-4bb7-97dc-4ac0fb7dafd8" />
 <img width="551" height="701" alt="Screenshot (53) (1)" src="https://github.com/user-attachments/assets/348d6fc1-adb0-4bc2-acf8-d68b8f36a3d0" />
