@@ -43,8 +43,10 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
 - **Estimated Total Cost:** **$59.53 USD**
 ## Schematic & PCB
 <img width="1281" height="722" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/4c8a113b-800f-4bb7-97dc-4ac0fb7dafd8" />
-<img width="614" height="812" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3782b218-dd4b-439d-9ec5-6f33f26f9c02" /><br><br>
+<img width="551" height="701" alt="Screenshot (53) (1)" src="https://github.com/user-attachments/assets/348d6fc1-adb0-4bc2-acf8-d68b8f36a3d0" />
+
 - ## 3d Render<br><br>
-<img width="526" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/9e2959bc-e1e0-490a-b71a-f6cbf8bb5ab1" />
-<img width="699" height="876" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/19016cc3-846d-4646-9340-6d58191dfa41" />
-<img width="708" height="699" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/27cafcea-55e2-467c-9423-afeb4fceccb4" />
+<img width="770" height="902" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/79eeb059-cd02-42a3-bdc6-99bb124d7e95" />
+<img width="628" height="837" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/9527e114-4158-4343-8ee0-eb73c8baa11d" />
+<img width="899" height="851" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/1b590b94-5381-4666-81f1-13276ff2e21a" />
+
