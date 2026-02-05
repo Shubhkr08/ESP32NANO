@@ -501,10 +501,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../Desktop/ESP32/PRODUCTION/",
+      "plot": "C:/Users/itism/OneDrive/Desktop/ESP32NANO/PRODUCTION/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Desktop/ESP32/ESP32NANO.step",
+      "step": "../CAD/ESP32NANO.step",
       "svg": "",
       "vrml": ""
     },

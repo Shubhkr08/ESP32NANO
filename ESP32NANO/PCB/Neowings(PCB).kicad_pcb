@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../Desktop/ESP32/PRODUCTION/")
+			(outputdirectory "C:/Users/itism/OneDrive/Desktop/ESP32NANO/PRODUCTION/")
 		)
 	)
 	(net 0 "")
@@ -4891,6 +4891,17 @@
 		(uuid "2ff1c4f0-e901-4f34-9b6d-c2c27786ade9")
 	)
 	(gr_line
+		(start 131.63 71.47)
+		(end 132.46 70.69)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(net 34)
+		(uuid "3c3d7728-f824-4ebf-919d-f194984b949e")
+	)
+	(gr_line
 		(start 113.9 61.35)
 		(end 111.9 59.35)
 		(stroke
@@ -5034,17 +5045,6 @@
 		(uuid "4dacb126-7fb6-4fc3-9bbc-62115c49dba5")
 	)
 	(gr_line
-		(start 118.39 74.55)
-		(end 119 74.55)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "50a97f6b-d4b0-4ae5-ae2b-eec865fd6bef")
-	)
-	(gr_line
 		(start 113.9 59.95)
 		(end 111.85 58.3)
 		(stroke
@@ -5111,17 +5111,6 @@
 		(uuid "5b46af10-9b5d-4113-82c6-bb96a3a8352d")
 	)
 	(gr_line
-		(start 133.45 68.51)
-		(end 132.26 71.02)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.Cu")
-		(net 34)
-		(uuid "5e6597e9-06b3-4751-a340-8ab5fd96338b")
-	)
-	(gr_line
 		(start 118.33 67.71)
 		(end 117.95 67.41)
 		(stroke
@@ -5164,6 +5153,16 @@
 		(layer "F.Cu")
 		(net 23)
 		(uuid "64e16c1f-f83f-4b8c-8dc1-9f9873cca43c")
+	)
+	(gr_line
+		(start 118.69 74.52)
+		(end 119.08 74.24)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(uuid "67c6ebf0-d8c3-403b-9b2e-fe844e7eadbe")
 	)
 	(gr_line
 		(start 113.4 66.05)
@@ -5232,17 +5231,6 @@
 		(uuid "76b7743f-4e1c-4c63-bf12-627d412beb7b")
 	)
 	(gr_line
-		(start 119 74.55)
-		(end 119.17 74.24)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.Cu")
-		(net 13)
-		(uuid "78c8382f-2785-4d18-a293-ac30161e996d")
-	)
-	(gr_line
 		(start 115.95 70.75)
 		(end 115.96 66.67)
 		(stroke
@@ -5263,6 +5251,17 @@
 		(layer "F.Cu")
 		(net 26)
 		(uuid "7d582865-f854-4901-824a-14312775433f")
+	)
+	(gr_line
+		(start 117.64 74.18)
+		(end 117.95 74.52)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "7e7873de-5448-46f8-8e53-af6f65bce628")
 	)
 	(gr_line
 		(start 113.04 72.07)
@@ -5362,17 +5361,6 @@
 		(layer "F.Cu")
 		(net 13)
 		(uuid "96bdb61a-ef74-4a68-9f0a-9846c843272a")
-	)
-	(gr_line
-		(start 132.26 71.02)
-		(end 131.63 71.47)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.Cu")
-		(net 34)
-		(uuid "9aa3a02c-6343-4543-aacd-081d103f0460")
 	)
 	(gr_line
 		(start 113.56 71.86)
@@ -5518,6 +5506,17 @@
 		(uuid "b5026211-8ba4-4df6-ac31-71dce1188999")
 	)
 	(gr_line
+		(start 117.95 74.52)
+		(end 118.69 74.52)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.Cu")
+		(net 14)
+		(uuid "b9fa46dd-c7e7-41fe-905b-07bc941e7adc")
+	)
+	(gr_line
 		(start 121.74 72.84)
 		(end 121.59 73.554796)
 		(stroke
@@ -5529,15 +5528,15 @@
 		(uuid "c5562422-cb77-4a02-9ca2-5316143f5d5c")
 	)
 	(gr_line
-		(start 118.13 74.17)
-		(end 118.39 74.55)
+		(start 132.46 70.69)
+		(end 133.47 68.58)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "F.Cu")
-		(net 13)
-		(uuid "cda9d368-eb17-4e62-9c90-5233d8705994")
+		(net 34)
+		(uuid "d7ab0a81-4e5e-41c6-a4fa-4ef4b302bd2d")
 	)
 	(gr_line
 		(start 113.46 75.82)
